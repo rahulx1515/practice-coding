@@ -50,4 +50,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/rahulx1515/practice-coding/tree/master/0295-find-median-from-data-stream) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/rahulx1515/practice-coding/tree/master/0203-remove-linked-list-elements) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/rahulx1515/practice-coding/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
