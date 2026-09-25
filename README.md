@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/rahulx1515/practice-coding/tree/master/0075-sort-colors) |
+| [0283-move-zeroes](https://github.com/rahulx1515/practice-coding/tree/master/0283-move-zeroes) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rahulx1515/practice-coding/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0986-interval-list-intersections](https://github.com/rahulx1515/practice-coding/tree/master/0986-interval-list-intersections) |
 ## Two Pointers
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rahulx1515/practice-coding/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/rahulx1515/practice-coding/tree/master/0075-sort-colors) |
+| [0283-move-zeroes](https://github.com/rahulx1515/practice-coding/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/rahulx1515/practice-coding/tree/master/0295-find-median-from-data-stream) |
 | [0986-interval-list-intersections](https://github.com/rahulx1515/practice-coding/tree/master/0986-interval-list-intersections) |
 ## Sorting
