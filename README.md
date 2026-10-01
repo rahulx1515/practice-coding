@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rahulx1515/practice-coding/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/rahulx1515/practice-coding/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/rahulx1515/practice-coding/tree/master/0538-convert-bst-to-greater-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rahulx1515/practice-coding/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/rahulx1515/practice-coding/tree/master/0979-distribute-coins-in-binary-tree) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rahulx1515/practice-coding/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/rahulx1515/practice-coding/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/rahulx1515/practice-coding/tree/master/0538-convert-bst-to-greater-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rahulx1515/practice-coding/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/rahulx1515/practice-coding/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rahulx1515/practice-coding/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/rahulx1515/practice-coding/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/rahulx1515/practice-coding/tree/master/0538-convert-bst-to-greater-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rahulx1515/practice-coding/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/rahulx1515/practice-coding/tree/master/0979-distribute-coins-in-binary-tree) |
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/rahulx1515/practice-coding/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/rahulx1515/practice-coding/tree/master/0538-convert-bst-to-greater-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rahulx1515/practice-coding/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/rahulx1515/practice-coding/tree/master/0979-distribute-coins-in-binary-tree) |
@@ -111,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/rahulx1515/practice-coding/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rahulx1515/practice-coding/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Backtracking
 |  |
