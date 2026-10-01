@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/rahulx1515/practice-coding/tree/master/0137-single-number-ii) |
 | [0283-move-zeroes](https://github.com/rahulx1515/practice-coding/tree/master/0283-move-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rahulx1515/practice-coding/tree/master/0540-single-element-in-a-sorted-array) |
+| [0648-replace-words](https://github.com/rahulx1515/practice-coding/tree/master/0648-replace-words) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rahulx1515/practice-coding/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0986-interval-list-intersections](https://github.com/rahulx1515/practice-coding/tree/master/0986-interval-list-intersections) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/rahulx1515/practice-coding/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/rahulx1515/practice-coding/tree/master/0389-find-the-difference) |
+| [0648-replace-words](https://github.com/rahulx1515/practice-coding/tree/master/0648-replace-words) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rahulx1515/practice-coding/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rahulx1515/practice-coding/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/rahulx1515/practice-coding/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/rahulx1515/practice-coding/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/rahulx1515/practice-coding/tree/master/0151-reverse-words-in-a-string) |
 | [0389-find-the-difference](https://github.com/rahulx1515/practice-coding/tree/master/0389-find-the-difference) |
+| [0648-replace-words](https://github.com/rahulx1515/practice-coding/tree/master/0648-replace-words) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/rahulx1515/practice-coding/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rahulx1515/practice-coding/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rahulx1515/practice-coding/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -170,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/rahulx1515/practice-coding/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Trie
+|  |
+| ------- |
+| [0648-replace-words](https://github.com/rahulx1515/practice-coding/tree/master/0648-replace-words) |
 <!---LeetCode Topics End-->
