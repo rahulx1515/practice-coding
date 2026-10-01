@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/rahulx1515/practice-coding/tree/master/0283-move-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rahulx1515/practice-coding/tree/master/0540-single-element-in-a-sorted-array) |
 | [0648-replace-words](https://github.com/rahulx1515/practice-coding/tree/master/0648-replace-words) |
+| [0699-falling-squares](https://github.com/rahulx1515/practice-coding/tree/master/0699-falling-squares) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rahulx1515/practice-coding/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0986-interval-list-intersections](https://github.com/rahulx1515/practice-coding/tree/master/0986-interval-list-intersections) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/rahulx1515/practice-coding/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -190,4 +191,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0670-maximum-swap](https://github.com/rahulx1515/practice-coding/tree/master/0670-maximum-swap) |
 | [0678-valid-parenthesis-string](https://github.com/rahulx1515/practice-coding/tree/master/0678-valid-parenthesis-string) |
+## Segment Tree
+|  |
+| ------- |
+| [0699-falling-squares](https://github.com/rahulx1515/practice-coding/tree/master/0699-falling-squares) |
+## Ordered Set
+|  |
+| ------- |
+| [0699-falling-squares](https://github.com/rahulx1515/practice-coding/tree/master/0699-falling-squares) |
 <!---LeetCode Topics End-->
