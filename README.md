@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rahulx1515/practice-coding/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/rahulx1515/practice-coding/tree/master/0075-sort-colors) |
+| [0151-reverse-words-in-a-string](https://github.com/rahulx1515/practice-coding/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/rahulx1515/practice-coding/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/rahulx1515/practice-coding/tree/master/0295-find-median-from-data-stream) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rahulx1515/practice-coding/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rahulx1515/practice-coding/tree/master/0020-valid-parentheses) |
+| [0151-reverse-words-in-a-string](https://github.com/rahulx1515/practice-coding/tree/master/0151-reverse-words-in-a-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/rahulx1515/practice-coding/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rahulx1515/practice-coding/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rahulx1515/practice-coding/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
