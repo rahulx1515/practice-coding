@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/rahulx1515/practice-coding/tree/master/0301-remove-invalid-parentheses) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/rahulx1515/practice-coding/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0617-merge-two-binary-trees](https://github.com/rahulx1515/practice-coding/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rahulx1515/practice-coding/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/rahulx1515/practice-coding/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/rahulx1515/practice-coding/tree/master/0078-subsets) |
+| [0301-remove-invalid-parentheses](https://github.com/rahulx1515/practice-coding/tree/master/0301-remove-invalid-parentheses) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/rahulx1515/practice-coding/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/rahulx1515/practice-coding/tree/master/0032-longest-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/rahulx1515/practice-coding/tree/master/0151-reverse-words-in-a-string) |
+| [0301-remove-invalid-parentheses](https://github.com/rahulx1515/practice-coding/tree/master/0301-remove-invalid-parentheses) |
 | [0389-find-the-difference](https://github.com/rahulx1515/practice-coding/tree/master/0389-find-the-difference) |
 | [0648-replace-words](https://github.com/rahulx1515/practice-coding/tree/master/0648-replace-words) |
 | [0678-valid-parenthesis-string](https://github.com/rahulx1515/practice-coding/tree/master/0678-valid-parenthesis-string) |
