@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/rahulx1515/practice-coding/tree/master/0538-convert-bst-to-greater-tree) |
 | [0617-merge-two-binary-trees](https://github.com/rahulx1515/practice-coding/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rahulx1515/practice-coding/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0700-search-in-a-binary-search-tree](https://github.com/rahulx1515/practice-coding/tree/master/0700-search-in-a-binary-search-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/rahulx1515/practice-coding/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/rahulx1515/practice-coding/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Binary Search Tree
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/rahulx1515/practice-coding/tree/master/0538-convert-bst-to-greater-tree) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rahulx1515/practice-coding/tree/master/0540-single-element-in-a-sorted-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rahulx1515/practice-coding/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0700-search-in-a-binary-search-tree](https://github.com/rahulx1515/practice-coding/tree/master/0700-search-in-a-binary-search-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/rahulx1515/practice-coding/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/rahulx1515/practice-coding/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Binary Tree
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/rahulx1515/practice-coding/tree/master/0538-convert-bst-to-greater-tree) |
 | [0617-merge-two-binary-trees](https://github.com/rahulx1515/practice-coding/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rahulx1515/practice-coding/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0700-search-in-a-binary-search-tree](https://github.com/rahulx1515/practice-coding/tree/master/0700-search-in-a-binary-search-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/rahulx1515/practice-coding/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/rahulx1515/practice-coding/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Depth-First Search
