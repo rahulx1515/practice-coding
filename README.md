@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/rahulx1515/practice-coding/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/rahulx1515/practice-coding/tree/master/0032-longest-valid-parentheses) |
+| [0062-unique-paths](https://github.com/rahulx1515/practice-coding/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/rahulx1515/practice-coding/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rahulx1515/practice-coding/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/rahulx1515/practice-coding/tree/master/0152-maximum-product-subarray) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rahulx1515/practice-coding/tree/master/0002-add-two-numbers) |
+| [0062-unique-paths](https://github.com/rahulx1515/practice-coding/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/rahulx1515/practice-coding/tree/master/0070-climbing-stairs) |
 | [0670-maximum-swap](https://github.com/rahulx1515/practice-coding/tree/master/0670-maximum-swap) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/rahulx1515/practice-coding/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -281,4 +283,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/rahulx1515/practice-coding/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/rahulx1515/practice-coding/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
