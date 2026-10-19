@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/rahulx1515/practice-coding/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/rahulx1515/practice-coding/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/rahulx1515/practice-coding/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/rahulx1515/practice-coding/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/rahulx1515/practice-coding/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/rahulx1515/practice-coding/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Two Pointers
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/rahulx1515/practice-coding/tree/master/0070-climbing-stairs) |
 | [0670-maximum-swap](https://github.com/rahulx1515/practice-coding/tree/master/0670-maximum-swap) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rahulx1515/practice-coding/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/rahulx1515/practice-coding/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/rahulx1515/practice-coding/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Greedy
 |  |
