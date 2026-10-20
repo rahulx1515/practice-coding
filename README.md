@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/rahulx1515/practice-coding/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/rahulx1515/practice-coding/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/rahulx1515/practice-coding/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/rahulx1515/practice-coding/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/rahulx1515/practice-coding/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/rahulx1515/practice-coding/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2574-left-and-right-sum-differences](https://github.com/rahulx1515/practice-coding/tree/master/2574-left-and-right-sum-differences) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/rahulx1515/practice-coding/tree/master/0295-find-median-from-data-stream) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rahulx1515/practice-coding/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0986-interval-list-intersections](https://github.com/rahulx1515/practice-coding/tree/master/0986-interval-list-intersections) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/rahulx1515/practice-coding/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/rahulx1515/practice-coding/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Sorting
 |  |
@@ -328,4 +330,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rahulx1515/practice-coding/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Simulation
+|  |
+| ------- |
+| [2161-partition-array-according-to-given-pivot](https://github.com/rahulx1515/practice-coding/tree/master/2161-partition-array-according-to-given-pivot) |
 <!---LeetCode Topics End-->
