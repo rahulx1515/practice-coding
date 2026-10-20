@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/rahulx1515/practice-coding/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/rahulx1515/practice-coding/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/rahulx1515/practice-coding/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/rahulx1515/practice-coding/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/rahulx1515/practice-coding/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3886-sum-of-sortable-integers](https://github.com/rahulx1515/practice-coding/tree/master/3886-sum-of-sortable-integers) |
 ## Two Pointers
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/rahulx1515/practice-coding/tree/master/0295-find-median-from-data-stream) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rahulx1515/practice-coding/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0986-interval-list-intersections](https://github.com/rahulx1515/practice-coding/tree/master/0986-interval-list-intersections) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/rahulx1515/practice-coding/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Sorting
 |  |
 | ------- |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/rahulx1515/practice-coding/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/rahulx1515/practice-coding/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/rahulx1515/practice-coding/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/rahulx1515/practice-coding/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/rahulx1515/practice-coding/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3886-sum-of-sortable-integers](https://github.com/rahulx1515/practice-coding/tree/master/3886-sum-of-sortable-integers) |
 ## Quicksort
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rahulx1515/practice-coding/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/rahulx1515/practice-coding/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/rahulx1515/practice-coding/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/rahulx1515/practice-coding/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Binary Tree
 |  |
 | ------- |
@@ -281,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/rahulx1515/practice-coding/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/rahulx1515/practice-coding/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/rahulx1515/practice-coding/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/rahulx1515/practice-coding/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/rahulx1515/practice-coding/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/rahulx1515/practice-coding/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Segment Tree
