@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/rahulx1515/practice-coding/tree/master/0198-house-robber) |
 | [0283-move-zeroes](https://github.com/rahulx1515/practice-coding/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/rahulx1515/practice-coding/tree/master/0414-third-maximum-number) |
+| [0518-coin-change-ii](https://github.com/rahulx1515/practice-coding/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rahulx1515/practice-coding/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/rahulx1515/practice-coding/tree/master/0560-subarray-sum-equals-k) |
 | [0648-replace-words](https://github.com/rahulx1515/practice-coding/tree/master/0648-replace-words) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rahulx1515/practice-coding/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/rahulx1515/practice-coding/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/rahulx1515/practice-coding/tree/master/0198-house-robber) |
+| [0518-coin-change-ii](https://github.com/rahulx1515/practice-coding/tree/master/0518-coin-change-ii) |
 | [0678-valid-parenthesis-string](https://github.com/rahulx1515/practice-coding/tree/master/0678-valid-parenthesis-string) |
 | [1035-uncrossed-lines](https://github.com/rahulx1515/practice-coding/tree/master/1035-uncrossed-lines) |
 | [1143-longest-common-subsequence](https://github.com/rahulx1515/practice-coding/tree/master/1143-longest-common-subsequence) |
@@ -345,4 +347,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1035-uncrossed-lines](https://github.com/rahulx1515/practice-coding/tree/master/1035-uncrossed-lines) |
 | [1143-longest-common-subsequence](https://github.com/rahulx1515/practice-coding/tree/master/1143-longest-common-subsequence) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/rahulx1515/practice-coding/tree/master/0518-coin-change-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/rahulx1515/practice-coding/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
