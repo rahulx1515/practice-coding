@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/rahulx1515/practice-coding/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/rahulx1515/practice-coding/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/rahulx1515/practice-coding/tree/master/0078-subsets) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rahulx1515/practice-coding/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/rahulx1515/practice-coding/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/rahulx1515/practice-coding/tree/master/0032-longest-valid-parentheses) |
 | [0062-unique-paths](https://github.com/rahulx1515/practice-coding/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/rahulx1515/practice-coding/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/rahulx1515/practice-coding/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/rahulx1515/practice-coding/tree/master/0072-edit-distance) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rahulx1515/practice-coding/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/rahulx1515/practice-coding/tree/master/0064-minimum-path-sum) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/rahulx1515/practice-coding/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Trie
 |  |
