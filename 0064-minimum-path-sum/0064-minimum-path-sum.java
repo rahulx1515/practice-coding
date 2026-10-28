@@ -23,4 +23,4 @@ class Solution {
         return dp[cr][cc] = grid[cr][cc] + Math.min(r, l);
 
     }
-}5
+}
