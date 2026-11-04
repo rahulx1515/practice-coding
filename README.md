@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rahulx1515/practice-coding/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rahulx1515/practice-coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rahulx1515/practice-coding/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0136-single-number](https://github.com/rahulx1515/practice-coding/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/rahulx1515/practice-coding/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/rahulx1515/practice-coding/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/rahulx1515/practice-coding/tree/master/0198-house-robber) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/rahulx1515/practice-coding/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/rahulx1515/practice-coding/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/rahulx1515/practice-coding/tree/master/0137-single-number-ii) |
 | [0389-find-the-difference](https://github.com/rahulx1515/practice-coding/tree/master/0389-find-the-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/rahulx1515/practice-coding/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
