@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/rahulx1515/practice-coding/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/rahulx1515/practice-coding/tree/master/0198-house-robber) |
 | [0283-move-zeroes](https://github.com/rahulx1515/practice-coding/tree/master/0283-move-zeroes) |
+| [0312-burst-balloons](https://github.com/rahulx1515/practice-coding/tree/master/0312-burst-balloons) |
 | [0414-third-maximum-number](https://github.com/rahulx1515/practice-coding/tree/master/0414-third-maximum-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rahulx1515/practice-coding/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0518-coin-change-ii](https://github.com/rahulx1515/practice-coding/tree/master/0518-coin-change-ii) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rahulx1515/practice-coding/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/rahulx1515/practice-coding/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/rahulx1515/practice-coding/tree/master/0198-house-robber) |
+| [0312-burst-balloons](https://github.com/rahulx1515/practice-coding/tree/master/0312-burst-balloons) |
 | [0518-coin-change-ii](https://github.com/rahulx1515/practice-coding/tree/master/0518-coin-change-ii) |
 | [0678-valid-parenthesis-string](https://github.com/rahulx1515/practice-coding/tree/master/0678-valid-parenthesis-string) |
 | [1035-uncrossed-lines](https://github.com/rahulx1515/practice-coding/tree/master/1035-uncrossed-lines) |
