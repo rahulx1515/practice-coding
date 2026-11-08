@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0986-interval-list-intersections](https://github.com/rahulx1515/practice-coding/tree/master/0986-interval-list-intersections) |
 | [1035-uncrossed-lines](https://github.com/rahulx1515/practice-coding/tree/master/1035-uncrossed-lines) |
 | [1254-number-of-closed-islands](https://github.com/rahulx1515/practice-coding/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/rahulx1515/practice-coding/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/rahulx1515/practice-coding/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rahulx1515/practice-coding/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1732-find-the-highest-altitude](https://github.com/rahulx1515/practice-coding/tree/master/1732-find-the-highest-altitude) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-distribute-coins-in-binary-tree](https://github.com/rahulx1515/practice-coding/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/rahulx1515/practice-coding/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1254-number-of-closed-islands](https://github.com/rahulx1515/practice-coding/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/rahulx1515/practice-coding/tree/master/1267-count-servers-that-communicate) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/rahulx1515/practice-coding/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rahulx1515/practice-coding/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1254-number-of-closed-islands](https://github.com/rahulx1515/practice-coding/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/rahulx1515/practice-coding/tree/master/1267-count-servers-that-communicate) |
 ## Backtracking
 |  |
 | ------- |
@@ -304,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0064-minimum-path-sum](https://github.com/rahulx1515/practice-coding/tree/master/0064-minimum-path-sum) |
 | [1254-number-of-closed-islands](https://github.com/rahulx1515/practice-coding/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/rahulx1515/practice-coding/tree/master/1267-count-servers-that-communicate) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/rahulx1515/practice-coding/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3665-twisted-mirror-path-count](https://github.com/rahulx1515/practice-coding/tree/master/3665-twisted-mirror-path-count) |
 ## Trie
@@ -372,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/rahulx1515/practice-coding/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/rahulx1515/practice-coding/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rahulx1515/practice-coding/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Fermat's Little Theorem
 |  |
@@ -394,4 +399,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0518-coin-change-ii](https://github.com/rahulx1515/practice-coding/tree/master/0518-coin-change-ii) |
+## Counting
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/rahulx1515/practice-coding/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
