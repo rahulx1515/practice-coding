@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/rahulx1515/practice-coding/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/rahulx1515/practice-coding/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/rahulx1515/practice-coding/tree/master/0152-maximum-product-subarray) |
+| [0162-find-peak-element](https://github.com/rahulx1515/practice-coding/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/rahulx1515/practice-coding/tree/master/0198-house-robber) |
 | [0283-move-zeroes](https://github.com/rahulx1515/practice-coding/tree/master/0283-move-zeroes) |
 | [0312-burst-balloons](https://github.com/rahulx1515/practice-coding/tree/master/0312-burst-balloons) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/rahulx1515/practice-coding/tree/master/0035-search-insert-position) |
 | [0098-validate-binary-search-tree](https://github.com/rahulx1515/practice-coding/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rahulx1515/practice-coding/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0162-find-peak-element](https://github.com/rahulx1515/practice-coding/tree/master/0162-find-peak-element) |
 | [0450-delete-node-in-a-bst](https://github.com/rahulx1515/practice-coding/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/rahulx1515/practice-coding/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/rahulx1515/practice-coding/tree/master/0538-convert-bst-to-greater-tree) |
