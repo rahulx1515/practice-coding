@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/rahulx1515/practice-coding/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/rahulx1515/practice-coding/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/rahulx1515/practice-coding/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/rahulx1515/practice-coding/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/rahulx1515/practice-coding/tree/master/0078-subsets) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/rahulx1515/practice-coding/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rahulx1515/practice-coding/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rahulx1515/practice-coding/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Tree
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/rahulx1515/practice-coding/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/rahulx1515/practice-coding/tree/master/0032-longest-valid-parentheses) |
+| [0053-maximum-subarray](https://github.com/rahulx1515/practice-coding/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/rahulx1515/practice-coding/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/rahulx1515/practice-coding/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/rahulx1515/practice-coding/tree/master/0070-climbing-stairs) |
