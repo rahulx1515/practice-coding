@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/rahulx1515/practice-coding/tree/master/0283-move-zeroes) |
 | [0312-burst-balloons](https://github.com/rahulx1515/practice-coding/tree/master/0312-burst-balloons) |
 | [0414-third-maximum-number](https://github.com/rahulx1515/practice-coding/tree/master/0414-third-maximum-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/rahulx1515/practice-coding/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rahulx1515/practice-coding/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0518-coin-change-ii](https://github.com/rahulx1515/practice-coding/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rahulx1515/practice-coding/tree/master/0540-single-element-in-a-sorted-array) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/rahulx1515/practice-coding/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/rahulx1515/practice-coding/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/rahulx1515/practice-coding/tree/master/0070-climbing-stairs) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/rahulx1515/practice-coding/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rahulx1515/practice-coding/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0670-maximum-swap](https://github.com/rahulx1515/practice-coding/tree/master/0670-maximum-swap) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rahulx1515/practice-coding/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
