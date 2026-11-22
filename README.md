@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/rahulx1515/practice-coding/tree/master/0560-subarray-sum-equals-k) |
 | [0648-replace-words](https://github.com/rahulx1515/practice-coding/tree/master/0648-replace-words) |
 | [0699-falling-squares](https://github.com/rahulx1515/practice-coding/tree/master/0699-falling-squares) |
+| [0835-image-overlap](https://github.com/rahulx1515/practice-coding/tree/master/0835-image-overlap) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rahulx1515/practice-coding/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0986-interval-list-intersections](https://github.com/rahulx1515/practice-coding/tree/master/0986-interval-list-intersections) |
 | [1035-uncrossed-lines](https://github.com/rahulx1515/practice-coding/tree/master/1035-uncrossed-lines) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/rahulx1515/practice-coding/tree/master/0064-minimum-path-sum) |
+| [0835-image-overlap](https://github.com/rahulx1515/practice-coding/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/rahulx1515/practice-coding/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/rahulx1515/practice-coding/tree/master/1267-count-servers-that-communicate) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/rahulx1515/practice-coding/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
