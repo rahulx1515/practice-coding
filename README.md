@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/rahulx1515/practice-coding/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/rahulx1515/practice-coding/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/rahulx1515/practice-coding/tree/master/0032-longest-valid-parentheses) |
+| [0038-count-and-say](https://github.com/rahulx1515/practice-coding/tree/master/0038-count-and-say) |
 | [0072-edit-distance](https://github.com/rahulx1515/practice-coding/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/rahulx1515/practice-coding/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/rahulx1515/practice-coding/tree/master/0151-reverse-words-in-a-string) |
