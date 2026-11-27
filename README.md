@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rahulx1515/practice-coding/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/rahulx1515/practice-coding/tree/master/0075-sort-colors) |
+| [0086-partition-list](https://github.com/rahulx1515/practice-coding/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/rahulx1515/practice-coding/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/rahulx1515/practice-coding/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/rahulx1515/practice-coding/tree/master/0189-rotate-array) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/rahulx1515/practice-coding/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rahulx1515/practice-coding/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0086-partition-list](https://github.com/rahulx1515/practice-coding/tree/master/0086-partition-list) |
 | [0147-insertion-sort-list](https://github.com/rahulx1515/practice-coding/tree/master/0147-insertion-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/rahulx1515/practice-coding/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/rahulx1515/practice-coding/tree/master/0237-delete-node-in-a-linked-list) |
